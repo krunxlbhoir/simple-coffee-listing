@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-coffee-listing/static/css/main.3a08c7f9.css",
+    "main.js": "/simple-coffee-listing/static/js/main.0af7be27.js",
+    "index.html": "/simple-coffee-listing/index.html",
+    "main.3a08c7f9.css.map": "/simple-coffee-listing/static/css/main.3a08c7f9.css.map",
+    "main.0af7be27.js.map": "/simple-coffee-listing/static/js/main.0af7be27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a08c7f9.css",
+    "static/js/main.0af7be27.js"
+  ]
+}
